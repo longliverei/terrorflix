@@ -40,7 +40,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url(/Netflix/img/capa.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url(/Terrorflix/img/capa.jpg);
     height: 600px;
     background-size: cover;
     display: flex;
